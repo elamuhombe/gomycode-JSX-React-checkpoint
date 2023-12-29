@@ -1,0 +1,57 @@
+/* src/styles.css */
+
+/* Global styles for the entire body */
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Container for cards */
+.card-container {
+  display: flex;
+  margin: 0 auto; /* Center the container horizontally */
+  align-items: center;
+  height: 150vh; /* 150% of the viewport height */
+  margin-top: 20px; /* Top margin for spacing */
+}
+
+/* Styles for individual cards */
+.card {
+  width: 20rem; /* Fixed width for each card */
+  margin: 20px; /* Margin around each card */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Box shadow for a subtle effect */
+}
+
+/* Styles for the image inside a card */
+.card-image {
+  border-top-left-radius: 8px; /* Border radius for the top-left corner */
+  border-top-right-radius: 8px; /* Border radius for the top-right corner */
+}
+
+/* Styles for greeting text */
+.greeting {
+  text-align: center; /* Center the text */
+  font-size: 18px; /* Set font size */
+  margin-top: 20px; /* Top margin for spacing */
+}
+
+/* Styles for the firstName class */
+.firstName {
+  display: flex;
+  flex-direction: column; /* Set flex direction to column */
+  align-items: center; /* Center items horizontally */
+  height: 100vh; /* 100% of the viewport height */
+}
+
+/* Styles for form elements */
+Form {
+  padding-top: 20px; /* Top padding for the form */
+  padding-left: 20px; /* Left padding for the form */
+}
+
+/* Styles for buttons */
+Button {
+  margin-top: 8px; /* Top margin for spacing */
+}
