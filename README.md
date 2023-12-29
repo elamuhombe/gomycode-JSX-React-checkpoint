@@ -58,3 +58,16 @@ Modify the product.js file to use your own product data.
 - React v18
 - React-Bootstrap v2.9.2
 
+  ### Built With
+- React v18 - JavaScript library for building user interfaces
+- React-Bootstrap v2.92 - Bootstrap components built with React
+
+### Author
+Elaine Muhombe
+
+### Acnowledgements
+- Create React App http://react.dev
+- React-Bootstrap Documentation https://react-bootstrap.netlify.app/
+  
+
+
