@@ -9,14 +9,14 @@ This is a simple React app that displays a product card using React components a
   - index.js
   - `product.js`: JSON object containing product data.
   - styles.css : contains css styles for the project
-  - src/assets/
-      - nike-trainers.png : contains product image
   - src/components/
       - Name.js : contains product name
       - Description.js : contains product description
       - Price.js : contains product price
       - Image.js : contains product image
 - `public/`: Public assets and HTML template.
+-  public/assets/
+      - nike-trainers.png : contains product image
 
 ## Getting Started
 
