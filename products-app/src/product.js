@@ -4,7 +4,7 @@ const productDetails = {
   name: "Nike", // Name of the product
   price: 3500.0, // Price of the product as a double (numeric format)
   description: "Ladies trainers shoes", // Description of the product
-  imageURL: "./assets/nike-trainers.png", // Relative path to the image file
+  imageURL: "assets/nike-trainers.png", // Relative path to the image file
 };
 
 // Format the price with a thousand separator
