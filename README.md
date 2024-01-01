@@ -39,21 +39,20 @@ This is a simple React app that displays a product card using React components a
    The app will be available at http://localhost:3000 in your browser.
 
 ## Project Components
-App Component (App.js): The main component that imports and renders other components.
+- App Component (App.js): The main component that imports and renders other components.
 
-Product Components (Name.js, Price.js, Description.js, Image.js): Components that display specific product information.
+- Product Components (Name.js, Price.js, Description.js, Image.js): Components that display specific product information.
 
-Product Data (product.js): JSON object containing sample product data.
+- Product Data (product.js): JSON object containing sample product data.
 
 ## Additional Information
-React-Bootstrap: The app uses the react-bootstrap library for styling and components.
+- React-Bootstrap: The app uses the react-bootstrap library for styling and components.
 
-Hello Message: The app displays a personalized greeting message based on whether the first name is provided.
+- Hello Message: The app displays a personalized greeting message based on whether the first name is provided.
 
-Image Display: An image is displayed if the first name is provided.
+- Image Display: An image is displayed if the first name is provided.
 
-Customize
-Replace YourFirstName in App.js with your actual first name.
+- Customize: Replace YourFirstName in App.js with your actual first name.
 
 Modify the product.js file to use your own product data.
 
