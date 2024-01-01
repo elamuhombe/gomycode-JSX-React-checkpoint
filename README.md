@@ -33,6 +33,7 @@ This is a simple React app that displays a product card using React components a
    ![dep (1)](https://github.com/elamuhombe/gomycode-JSX-React-checkpoint/assets/10416177/fef7374b-a9cf-4845-bbb6-73563f7668e3)
 
 6. Start the development server as shown below
+7. <b>
    ![start](https://github.com/elamuhombe/gomycode-JSX-React-checkpoint/assets/10416177/b9d02ee6-f625-4ca1-90d6-7436835d5dec)
 
    The app will be available at http://localhost:3000 in your browser.
