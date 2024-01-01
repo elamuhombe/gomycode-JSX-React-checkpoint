@@ -3,6 +3,8 @@
 This is a simple React app that displays a product card using React components and react-bootstrap.
 
 ## Project Structure
+![project-structure-product](https://github.com/elamuhombe/gomycode-JSX-React-checkpoint/assets/10416177/2aaa3b23-9be6-4435-9c6f-88b5cbcfc4df)
+
 
 - `src/`
   - `App.js`: The root component of the React app.
