@@ -60,11 +60,11 @@ Modify the product.js file to use your own product data.
 - React v18
 - React-Bootstrap v2.9.2
 
-  ### Built With
+## Built With
 - React v18 - JavaScript library for building user interfaces
 - React-Bootstrap v2.92 - Bootstrap components built with React
 
-### Author
+## Author
 Elaine Muhombe
 
 ### Acnowledgements
