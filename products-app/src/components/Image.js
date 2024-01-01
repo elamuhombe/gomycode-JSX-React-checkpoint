@@ -12,11 +12,7 @@ const Image = ({ firstName }) => {
     <div>
       {/* Conditional rendering: Display image if firstName is truthy */}
       {firstName && (
-        <img
-          src={productDetails.imageURL}
-          alt={productDetails.name}
-          style={{ maxWidth: "100%", height: "auto" }}
-        />
+        <img src={productDetails.imageURL} alt={productDetails.name} />
       )}
     </div>
   );
