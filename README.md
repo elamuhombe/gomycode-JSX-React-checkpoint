@@ -45,6 +45,15 @@ This is a simple React app that displays a product card using React components a
 
 - Product Data (product.js): JSON object containing sample product data.
 
+## Screenshots
+Before a user enters his/her name:
+![b4-user](https://github.com/elamuhombe/gomycode-JSX-React-checkpoint/assets/10416177/60222988-68b0-4dd1-94e9-bfeb60336742)
+
+After a user enters his/her name:
+![after-user](https://github.com/elamuhombe/gomycode-JSX-React-checkpoint/assets/10416177/d6e5d5aa-21f9-4c6a-a092-e2fa32d0bb2b)
+
+
+
 ## Additional Information
 - React-Bootstrap: The app uses the react-bootstrap library for styling and components.
 
