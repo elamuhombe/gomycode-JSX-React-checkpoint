@@ -1,4 +1,4 @@
-# React Bootstrap Product App
+# React Bootstrap Products App
 
 This is a simple React app that displays a product card using React components and react-bootstrap.
 
