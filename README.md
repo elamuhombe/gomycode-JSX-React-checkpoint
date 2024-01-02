@@ -1,6 +1,6 @@
 # React Bootstrap Products App
 
-This is a simple React app that displays a product card using React components and react-bootstrap.
+This is a simple React app that displays a that displays a product card with details such as name, price, and description. Users can input their first name in a form, submit it, and the submitted first name is displayed along with the product image.
 
 ## Project Structure
 ![project-structure-product](https://github.com/elamuhombe/gomycode-JSX-React-checkpoint/assets/10416177/2aaa3b23-9be6-4435-9c6f-88b5cbcfc4df)
